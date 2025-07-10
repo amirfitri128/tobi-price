@@ -1,0 +1,501 @@
+location,type,size_sqft,rooms,bathrooms,price,region
+Puchong,Terrace,1919,2,1,608297.5579681282,South
+Shah Alam,Condo,2455,2,1,800534.2150034251,South
+Subang,Terrace,1972,3,2,673818.1132388783,West
+Shah Alam,Condo,1472,5,1,663232.3756280848,South
+Shah Alam,Semi-D,1852,2,2,753665.8628521654,South
+Petaling Jaya,Semi-D,2917,4,3,1218119.6021701577,Central
+Subang,Condo,2451,2,1,556045.160566861,West
+Subang,Condo,1914,5,2,822888.2284151764,West
+Subang,Condo,1324,5,3,591933.9605928401,West
+Shah Alam,Semi-D,2652,4,3,1018049.3487465172,South
+Puchong,Condo,677,2,2,285503.2805320049,South
+Subang,Semi-D,731,5,1,386249.58542402444,West
+Shah Alam,Terrace,1200,3,2,440590.8138723909,South
+Petaling Jaya,Semi-D,2372,1,3,774426.6727749014,Central
+Puchong,Semi-D,1665,1,2,421559.22990426037,South
+Petaling Jaya,Terrace,2736,1,1,807805.4726072083,Central
+Puchong,Semi-D,2943,2,3,1020137.5517560246,South
+Shah Alam,Condo,2463,4,2,969029.1724744639,South
+Kuala Lumpur,Condo,1918,5,1,581109.973339445,Central
+Puchong,Semi-D,1215,3,3,357917.7027062692,South
+Petaling Jaya,Condo,2488,3,1,903451.9835634658,Central
+Shah Alam,Semi-D,1646,2,3,413801.8072315791,South
+Puchong,Condo,1174,1,2,298606.7498943094,South
+Kuala Lumpur,Condo,2790,2,1,600158.5273068406,Central
+Kuala Lumpur,Semi-D,1592,4,3,444060.4568140056,Central
+Subang,Condo,2792,4,1,730235.2849167639,West
+Subang,Semi-D,1848,5,1,628170.6257839578,West
+Petaling Jaya,Condo,1102,5,2,442196.6547397345,Central
+Puchong,Condo,2597,4,1,1072529.9184275265,South
+Puchong,Terrace,1420,4,3,538312.7820963187,South
+Subang,Terrace,2751,4,3,1072851.23235945,West
+Puchong,Semi-D,2570,2,3,660471.4941558569,South
+Puchong,Terrace,797,4,3,294974.22663088975,South
+Kuala Lumpur,Semi-D,2269,3,2,865262.3150039343,Central
+Subang,Terrace,1802,1,1,427560.17158955935,West
+Shah Alam,Condo,2071,4,2,715933.3091049049,South
+Subang,Semi-D,2246,1,1,774681.225982782,West
+Shah Alam,Semi-D,2292,2,1,780074.8763571578,South
+Kuala Lumpur,Condo,1912,1,1,408968.2899264378,Central
+Petaling Jaya,Semi-D,2635,2,2,777887.7417998393,Central
+Puchong,Semi-D,1077,3,1,468165.96162531694,South
+Kuala Lumpur,Terrace,1854,2,2,497756.1745418957,Central
+Puchong,Semi-D,1522,2,3,613782.6794333337,South
+Petaling Jaya,Condo,1019,5,3,490645.21313427,Central
+Petaling Jaya,Terrace,2804,4,1,1181655.9976062777,Central
+Kuala Lumpur,Terrace,1720,4,2,529510.9591486196,Central
+Petaling Jaya,Condo,1550,3,3,677278.506412254,Central
+Shah Alam,Condo,2936,3,2,975559.9281590104,South
+Petaling Jaya,Terrace,1877,4,2,638218.9889529528,Central
+Puchong,Semi-D,2843,5,1,740101.8240188097,South
+Puchong,Terrace,2457,4,3,959785.7297109411,South
+Puchong,Condo,1116,5,1,412056.27473859425,South
+Puchong,Terrace,2258,3,1,715641.1285767001,South
+Shah Alam,Condo,2465,1,3,576146.4557436891,South
+Subang,Terrace,1741,3,3,766612.969896453,West
+Kuala Lumpur,Semi-D,2532,3,2,978858.2946886353,Central
+Puchong,Terrace,1414,2,3,576962.2140288451,South
+Petaling Jaya,Terrace,2875,2,2,815486.9676958662,Central
+Puchong,Condo,2500,2,2,667215.2414818923,South
+Petaling Jaya,Condo,2863,2,2,1013091.4291116724,Central
+Petaling Jaya,Condo,2662,5,3,946718.2261335113,Central
+Puchong,Terrace,2694,4,1,709451.1965338232,South
+Shah Alam,Semi-D,2971,1,2,1017997.2309220353,South
+Petaling Jaya,Condo,729,3,1,388149.4343246033,Central
+Petaling Jaya,Condo,694,5,1,346605.1587998,Central
+Puchong,Terrace,2555,1,3,953152.376127678,South
+Petaling Jaya,Condo,1393,5,1,664893.1111642584,Central
+Petaling Jaya,Semi-D,2434,5,1,733169.6158024478,Central
+Puchong,Semi-D,2716,3,3,958633.8994381765,South
+Puchong,Condo,2283,4,2,1006010.7388259892,South
+Kuala Lumpur,Condo,610,2,1,186694.99391262417,Central
+Shah Alam,Terrace,2465,4,3,962477.07918131,South
+Shah Alam,Semi-D,1311,3,1,472612.1248810205,South
+Petaling Jaya,Semi-D,2670,3,1,922757.3496917497,Central
+Shah Alam,Condo,1414,3,2,569060.859693517,South
+Petaling Jaya,Terrace,945,1,1,432528.13739638735,Central
+Kuala Lumpur,Semi-D,2949,4,3,1174694.8053525009,Central
+Puchong,Semi-D,962,4,1,259710.82307630178,South
+Puchong,Terrace,2865,5,2,1245083.3747967123,South
+Puchong,Terrace,2788,5,2,832498.5201897104,South
+Shah Alam,Semi-D,1584,5,3,622853.3822703942,South
+Kuala Lumpur,Semi-D,2239,3,2,721417.5541959351,Central
+Shah Alam,Terrace,1427,4,1,513214.03698980017,South
+Shah Alam,Semi-D,955,3,2,377607.48108765954,South
+Kuala Lumpur,Condo,1947,1,3,830133.2002133469,Central
+Kuala Lumpur,Condo,2463,5,2,976523.7173224897,Central
+Kuala Lumpur,Terrace,726,3,2,282853.76342290273,Central
+Kuala Lumpur,Terrace,1203,3,2,308343.20273328945,Central
+Puchong,Terrace,2528,1,3,1057968.981960923,South
+Subang,Condo,1613,2,2,719875.8665993024,West
+Subang,Semi-D,650,4,2,339294.6724171853,West
+Kuala Lumpur,Condo,2030,2,1,491662.40623645706,Central
+Subang,Semi-D,2392,5,3,630338.316792669,West
+Subang,Condo,2236,3,2,622031.5185850951,West
+Kuala Lumpur,Semi-D,2245,1,3,550930.2778198002,Central
+Subang,Condo,1805,1,2,537981.4158092734,West
+Shah Alam,Terrace,2454,4,2,1068077.3170999396,South
+Petaling Jaya,Condo,1166,2,2,396037.44579347107,Central
+Petaling Jaya,Semi-D,1535,4,1,450909.4671132321,Central
+Kuala Lumpur,Condo,2534,3,1,734296.9276054653,Central
+Puchong,Condo,1932,4,1,520322.0135252141,South
+Kuala Lumpur,Condo,801,1,3,240812.0887986845,Central
+Puchong,Terrace,2960,1,3,844511.5460417526,South
+Petaling Jaya,Condo,716,5,1,280307.68690805405,Central
+Kuala Lumpur,Terrace,1536,5,3,722943.963083204,Central
+Shah Alam,Terrace,1174,3,2,556509.9541848338,South
+Subang,Condo,2891,2,2,887017.2639065719,West
+Puchong,Condo,1136,4,2,405851.8178097043,South
+Subang,Condo,2225,3,1,899542.9632794467,West
+Subang,Semi-D,2722,5,3,838279.6568756307,West
+Kuala Lumpur,Condo,985,4,1,310422.4861678904,Central
+Subang,Terrace,1074,5,3,549306.0277020494,West
+Shah Alam,Condo,1017,4,2,353650.3562419396,South
+Subang,Semi-D,2994,2,1,1010952.9776121478,West
+Kuala Lumpur,Condo,1538,3,3,604706.0870048886,Central
+Shah Alam,Semi-D,1554,4,3,520763.6139605964,South
+Petaling Jaya,Semi-D,1475,1,2,480169.80061657005,Central
+Subang,Condo,1362,1,1,533346.0509806077,West
+Kuala Lumpur,Terrace,1802,4,1,521049.77636399324,Central
+Petaling Jaya,Semi-D,1805,4,1,554920.3460432856,Central
+Petaling Jaya,Condo,1263,4,2,555428.8132168888,Central
+Puchong,Condo,624,1,1,244089.0676587761,South
+Shah Alam,Terrace,2590,1,2,631568.9427533143,South
+Subang,Semi-D,1803,4,2,756341.4243989444,West
+Kuala Lumpur,Semi-D,1309,5,2,503752.6331596841,Central
+Puchong,Condo,2479,5,3,1036147.0737927381,South
+Shah Alam,Condo,1784,2,1,670822.7656326984,South
+Puchong,Terrace,2824,3,1,1005201.3555360042,South
+Shah Alam,Terrace,884,5,2,388642.0945149785,South
+Shah Alam,Semi-D,662,1,2,332646.6193986584,South
+Subang,Semi-D,1602,5,1,466067.993815312,West
+Shah Alam,Condo,1261,2,2,495667.6949581146,South
+Puchong,Semi-D,2803,2,1,745787.4277671886,South
+Shah Alam,Terrace,2092,3,3,670526.1364910068,South
+Subang,Terrace,1566,5,2,510337.8856063619,West
+Subang,Condo,1448,1,1,604016.8397063365,West
+Puchong,Terrace,1707,1,2,751280.1700686933,South
+Petaling Jaya,Terrace,1288,4,1,390173.22954243637,Central
+Petaling Jaya,Terrace,747,1,1,199653.2068775053,Central
+Shah Alam,Terrace,941,3,2,396717.7747614798,South
+Kuala Lumpur,Condo,1686,3,3,580410.5402017387,Central
+Shah Alam,Condo,2324,1,1,562889.6566457086,South
+Puchong,Semi-D,1983,1,1,707161.5116269545,South
+Puchong,Terrace,926,4,1,406938.94108819426,South
+Puchong,Semi-D,2392,1,3,1020985.2957298864,South
+Puchong,Condo,2359,4,3,748466.5936914154,South
+Puchong,Condo,1589,4,2,524885.9017121916,South
+Subang,Condo,2862,1,3,943609.3508623207,West
+Petaling Jaya,Condo,1551,2,2,604094.6605523886,Central
+Puchong,Condo,1322,2,2,459187.95734761853,South
+Kuala Lumpur,Condo,2679,4,3,969048.2323137115,Central
+Kuala Lumpur,Condo,2932,1,2,772367.1474933656,Central
+Kuala Lumpur,Terrace,1028,2,3,469252.50919144525,Central
+Kuala Lumpur,Semi-D,2100,1,2,658573.9482275022,Central
+Subang,Condo,885,1,3,244488.64286846214,West
+Kuala Lumpur,Terrace,2665,1,3,945527.6620514216,Central
+Puchong,Terrace,1368,5,2,443436.45519637276,South
+Shah Alam,Semi-D,1994,1,1,491425.5602088671,South
+Kuala Lumpur,Condo,793,5,2,407905.77266929805,Central
+Subang,Semi-D,1587,4,3,584181.259708713,West
+Subang,Condo,1736,2,1,673557.4338744356,West
+Kuala Lumpur,Terrace,2761,2,2,770349.8770351179,Central
+Shah Alam,Terrace,2301,2,2,906241.2249887232,South
+Kuala Lumpur,Terrace,1546,2,2,445732.1833457202,Central
+Subang,Terrace,1430,2,1,446602.6194798384,West
+Petaling Jaya,Semi-D,2520,2,3,1099975.3745500266,Central
+Puchong,Condo,654,2,2,263185.43712220754,South
+Subang,Condo,1399,4,2,520351.1707650927,West
+Kuala Lumpur,Semi-D,1377,1,2,422672.7320067227,Central
+Puchong,Condo,2081,3,2,848123.5767813486,South
+Kuala Lumpur,Terrace,2501,5,2,906885.8358021566,Central
+Kuala Lumpur,Condo,2809,3,3,1114081.9861600497,Central
+Petaling Jaya,Terrace,2734,3,3,1026554.867036678,Central
+Puchong,Semi-D,654,1,2,159365.8374406818,South
+Puchong,Condo,2423,1,1,584478.8485565842,South
+Petaling Jaya,Semi-D,1801,1,3,672006.892364187,Central
+Subang,Condo,1432,2,1,402449.52145046665,West
+Kuala Lumpur,Terrace,912,4,3,356219.77564293763,Central
+Shah Alam,Semi-D,2458,2,2,1036197.466384843,South
+Kuala Lumpur,Condo,2607,4,3,956548.6436874926,Central
+Kuala Lumpur,Terrace,2606,4,2,1014191.0570126532,Central
+Subang,Semi-D,2390,3,3,837543.0714179734,West
+Kuala Lumpur,Semi-D,927,3,2,374465.8915620199,Central
+Petaling Jaya,Condo,1887,4,2,526922.6897269867,Central
+Petaling Jaya,Condo,2743,4,2,833968.1586013276,Central
+Puchong,Condo,1711,2,2,500972.7072010601,South
+Shah Alam,Terrace,1911,2,1,594490.4167476689,South
+Kuala Lumpur,Condo,1051,3,2,471166.9639853481,Central
+Kuala Lumpur,Semi-D,2123,1,1,613815.8683411856,Central
+Subang,Semi-D,764,4,1,281997.8877773481,West
+Petaling Jaya,Condo,781,2,2,288200.81335363566,Central
+Shah Alam,Condo,1509,3,1,385590.44659196335,South
+Puchong,Semi-D,1422,2,3,514502.5759106408,South
+Petaling Jaya,Terrace,1543,4,2,472790.59859596717,Central
+Puchong,Condo,2601,4,1,692408.8173366857,South
+Subang,Condo,2654,5,2,709483.4987561076,West
+Subang,Semi-D,929,1,2,327483.4586973837,West
+Kuala Lumpur,Condo,1374,5,2,625572.3389230242,Central
+Shah Alam,Terrace,2798,3,1,793695.1130625871,South
+Puchong,Semi-D,746,2,3,254280.58482038154,South
+Petaling Jaya,Condo,1514,3,3,634833.8883385363,Central
+Subang,Semi-D,2171,4,1,601801.5373445222,West
+Kuala Lumpur,Condo,1908,5,2,872554.8245070676,Central
+Kuala Lumpur,Condo,681,5,1,315542.6916998334,Central
+Puchong,Condo,1113,5,1,453986.5719649451,South
+Subang,Terrace,2520,3,1,886278.858649823,West
+Shah Alam,Terrace,2539,4,2,715074.9697508947,South
+Subang,Semi-D,1345,2,1,504141.3734891372,West
+Puchong,Condo,2009,2,2,615725.0962564328,South
+Puchong,Condo,1306,3,1,561865.7494185022,South
+Subang,Terrace,1070,5,3,397900.774024741,West
+Puchong,Condo,995,1,1,328104.87955383846,South
+Subang,Terrace,2155,3,1,813130.6174742967,West
+Petaling Jaya,Condo,2908,3,3,686168.737069149,Central
+Subang,Semi-D,1404,4,2,512966.7337633324,West
+Subang,Condo,1533,2,2,611569.8996500556,West
+Puchong,Condo,1879,3,1,763695.3114618029,South
+Puchong,Terrace,2357,3,3,753622.2863551436,South
+Kuala Lumpur,Condo,1504,5,2,676984.4053847551,Central
+Kuala Lumpur,Condo,1676,5,1,761893.6316102076,Central
+Petaling Jaya,Terrace,2490,1,3,995557.8277104651,Central
+Kuala Lumpur,Semi-D,2123,4,2,580888.0719943449,Central
+Subang,Semi-D,1987,1,2,751434.5273471269,West
+Puchong,Terrace,1903,5,3,663526.6690594613,South
+Kuala Lumpur,Terrace,1192,2,3,541856.6130285577,Central
+Kuala Lumpur,Terrace,2706,5,3,972783.0040461873,Central
+Petaling Jaya,Terrace,727,4,3,283103.89192402083,Central
+Petaling Jaya,Terrace,1335,5,1,584496.8197769568,Central
+Subang,Semi-D,1120,4,3,433695.11184492585,West
+Puchong,Semi-D,836,4,2,451259.2416766664,South
+Petaling Jaya,Terrace,1904,4,2,861718.9895979506,Central
+Kuala Lumpur,Condo,2381,4,1,873879.0677415472,Central
+Puchong,Terrace,1901,4,2,534180.1257453762,South
+Puchong,Condo,2651,2,2,995677.139617878,South
+Kuala Lumpur,Terrace,1041,1,3,275251.6185383965,Central
+Petaling Jaya,Terrace,2676,3,2,626530.831192341,Central
+Kuala Lumpur,Semi-D,1404,1,1,531623.7552361189,Central
+Puchong,Condo,674,4,3,290789.7749461136,South
+Shah Alam,Condo,2775,2,3,819865.946051843,South
+Shah Alam,Semi-D,2689,5,1,1149254.187206498,South
+Subang,Semi-D,1979,2,3,608902.3739774395,West
+Kuala Lumpur,Semi-D,640,4,3,265195.1830982996,Central
+Kuala Lumpur,Semi-D,2681,2,1,1059417.703212076,Central
+Subang,Condo,2300,2,3,570338.9166594619,West
+Subang,Condo,2001,4,1,782252.6463452091,West
+Subang,Terrace,1187,2,1,541591.6956567767,West
+Puchong,Terrace,2222,3,2,954050.1063106756,South
+Kuala Lumpur,Semi-D,941,3,2,439223.9201649215,Central
+Puchong,Semi-D,2674,2,3,825406.9503323827,South
+Subang,Semi-D,1245,5,3,473052.4275110098,West
+Kuala Lumpur,Terrace,1330,4,1,599475.4113918293,Central
+Puchong,Terrace,767,3,3,395986.72341390845,South
+Puchong,Terrace,1209,5,1,494247.4588937939,South
+Subang,Terrace,2915,2,1,819322.2464421731,West
+Kuala Lumpur,Terrace,2372,5,3,680404.5154313974,Central
+Subang,Terrace,2640,1,1,632095.5305861117,West
+Kuala Lumpur,Terrace,1054,3,2,433694.4937306225,Central
+Shah Alam,Semi-D,2308,2,3,727202.0302893453,South
+Petaling Jaya,Semi-D,1301,4,2,612016.0312430011,Central
+Petaling Jaya,Semi-D,2199,2,3,853106.0714608984,Central
+Petaling Jaya,Semi-D,729,4,1,256287.0851838488,Central
+Subang,Terrace,2445,2,3,922284.7094795012,West
+Shah Alam,Condo,1986,5,2,703634.6485652463,South
+Kuala Lumpur,Terrace,1292,5,1,513706.8293869164,Central
+Puchong,Condo,1994,5,3,841174.3429346131,South
+Kuala Lumpur,Semi-D,1393,1,3,568714.7064998888,Central
+Puchong,Terrace,628,4,3,360329.45915450633,South
+Kuala Lumpur,Semi-D,748,5,2,285720.30092895427,Central
+Shah Alam,Terrace,1919,1,2,471581.1011796192,South
+Puchong,Semi-D,2658,4,3,1076585.6696223766,South
+Subang,Condo,1736,2,1,468528.9571967346,West
+Kuala Lumpur,Condo,786,1,1,248213.9945006845,Central
+Kuala Lumpur,Condo,1850,3,2,474661.96082929877,Central
+Puchong,Terrace,1933,1,1,667808.8829363214,South
+Subang,Condo,697,1,2,229356.18897103603,West
+Subang,Terrace,654,4,3,346546.6933255477,West
+Shah Alam,Condo,1357,2,2,601350.8139865666,South
+Subang,Condo,1005,3,2,322901.73902643006,West
+Subang,Terrace,2716,5,3,748137.7568138555,West
+Subang,Terrace,1912,5,1,628773.524149235,West
+Petaling Jaya,Condo,2385,1,2,949034.0189004581,Central
+Shah Alam,Terrace,1350,4,2,417558.7243349884,South
+Kuala Lumpur,Condo,2362,4,3,792506.1508793833,Central
+Puchong,Terrace,964,5,1,303031.57863698364,South
+Kuala Lumpur,Semi-D,2626,3,2,1001900.6460075851,Central
+Shah Alam,Semi-D,1081,2,3,390722.14421320404,South
+Puchong,Semi-D,2848,3,2,1114358.4040358253,South
+Shah Alam,Semi-D,753,2,3,393962.3140229405,South
+Subang,Semi-D,2124,5,1,638581.2924505249,West
+Puchong,Condo,2720,2,1,1053683.7077500098,South
+Subang,Semi-D,2943,4,1,684601.494713482,West
+Kuala Lumpur,Semi-D,1640,1,1,643435.5435205301,Central
+Kuala Lumpur,Semi-D,2264,1,2,783488.9895453288,Central
+Puchong,Semi-D,1840,5,2,844759.6926781097,South
+Puchong,Terrace,660,4,1,240117.95199962897,South
+Shah Alam,Condo,1538,3,1,438302.3927595953,South
+Shah Alam,Semi-D,2239,4,1,722968.9549661705,South
+Subang,Semi-D,2689,1,2,823263.4469555262,West
+Puchong,Semi-D,624,1,1,184692.35845872312,South
+Kuala Lumpur,Condo,1662,4,1,527966.4626411765,Central
+Shah Alam,Terrace,730,4,1,281555.8156399433,South
+Shah Alam,Condo,1852,1,3,591923.5030242373,South
+Kuala Lumpur,Terrace,707,3,1,348926.33570643555,Central
+Shah Alam,Semi-D,771,5,3,372177.3075828066,South
+Subang,Semi-D,2058,5,3,547235.0461357725,West
+Puchong,Condo,701,4,1,302342.88905107,South
+Kuala Lumpur,Condo,2922,5,3,745484.580818318,Central
+Puchong,Terrace,2236,1,1,918002.8989255683,South
+Shah Alam,Terrace,1640,1,2,452136.3085730494,South
+Shah Alam,Condo,929,4,2,405314.441484535,South
+Kuala Lumpur,Terrace,2120,4,2,952175.5341157641,Central
+Subang,Condo,611,4,2,316762.0383104815,West
+Petaling Jaya,Terrace,1941,3,3,712863.3091615911,Central
+Kuala Lumpur,Condo,815,5,1,413852.82446818054,Central
+Petaling Jaya,Condo,938,4,1,467405.8935956899,Central
+Petaling Jaya,Condo,2399,2,1,845391.5318412586,Central
+Subang,Terrace,2350,2,2,798466.0442381046,West
+Petaling Jaya,Terrace,2108,1,2,706685.1802688399,Central
+Petaling Jaya,Terrace,1309,5,1,499805.91560907784,Central
+Subang,Condo,1823,4,2,732492.6647484176,West
+Petaling Jaya,Terrace,1712,2,1,534693.4134239918,Central
+Petaling Jaya,Terrace,1891,5,1,607479.7223603169,Central
+Petaling Jaya,Condo,1088,1,1,299765.48234036827,Central
+Kuala Lumpur,Semi-D,2161,3,1,530381.3402503215,Central
+Kuala Lumpur,Condo,646,5,1,263638.8159988595,Central
+Kuala Lumpur,Terrace,1377,5,1,424060.68900067266,Central
+Subang,Condo,1639,3,1,583900.3567557022,West
+Shah Alam,Semi-D,1310,5,2,435450.0503261632,South
+Petaling Jaya,Condo,1000,1,1,411153.2940298716,Central
+Petaling Jaya,Terrace,2417,1,1,562633.3069597497,Central
+Subang,Semi-D,849,3,2,320988.60779347987,West
+Petaling Jaya,Terrace,990,4,2,459580.63711105485,Central
+Kuala Lumpur,Semi-D,934,2,2,357674.4502235219,Central
+Shah Alam,Semi-D,1228,4,1,381832.6330108383,South
+Puchong,Condo,736,5,3,448669.4567478528,South
+Petaling Jaya,Condo,2121,2,3,885998.5590705696,Central
+Kuala Lumpur,Terrace,1426,3,2,470638.80099603016,Central
+Puchong,Condo,1326,3,3,434010.20919420244,South
+Shah Alam,Condo,2100,2,2,893241.3836601435,South
+Puchong,Semi-D,1589,1,1,567014.1801714865,South
+Kuala Lumpur,Condo,1534,2,3,543662.3025030266,Central
+Puchong,Semi-D,1001,5,1,453861.3097592288,South
+Subang,Semi-D,2066,1,3,665999.5236012451,West
+Puchong,Semi-D,1214,3,1,392737.41450810165,South
+Petaling Jaya,Terrace,1896,2,3,610875.9432738587,Central
+Petaling Jaya,Terrace,1782,4,1,726508.4568322587,Central
+Subang,Terrace,2835,4,1,985397.8189922925,West
+Kuala Lumpur,Semi-D,1721,5,3,702522.0236984603,Central
+Petaling Jaya,Terrace,730,4,1,293493.6017713112,Central
+Shah Alam,Terrace,1794,2,1,464021.35387197894,South
+Petaling Jaya,Condo,782,2,1,250975.21124824815,Central
+Petaling Jaya,Terrace,963,4,3,491858.5938628505,Central
+Kuala Lumpur,Terrace,638,2,3,263541.14508343284,Central
+Puchong,Semi-D,1972,5,1,537197.2176148053,South
+Petaling Jaya,Semi-D,1520,1,1,581330.5363834435,Central
+Subang,Semi-D,615,5,3,290124.9087602528,West
+Puchong,Semi-D,1092,5,3,605822.9972201813,South
+Shah Alam,Semi-D,2049,2,1,464560.7467937241,South
+Kuala Lumpur,Semi-D,1731,1,1,582949.9257767318,Central
+Shah Alam,Terrace,910,2,1,285737.5638617424,South
+Puchong,Semi-D,1338,3,2,619821.9390873412,South
+Puchong,Semi-D,1145,2,3,410883.7864202231,South
+Puchong,Condo,850,2,2,259020.0006535197,South
+Shah Alam,Terrace,1358,2,3,426952.5001379286,South
+Puchong,Terrace,2404,1,3,653452.8425555624,South
+Shah Alam,Terrace,1897,2,3,518424.46508854703,South
+Puchong,Semi-D,2231,1,3,905871.7617095481,South
+Subang,Semi-D,2514,4,3,855942.6628870409,West
+Puchong,Semi-D,1413,3,3,593315.2525480838,South
+Shah Alam,Condo,628,1,3,250334.16696665465,South
+Petaling Jaya,Semi-D,1557,4,2,623437.1851569364,Central
+Puchong,Condo,2632,1,1,632450.5323216885,South
+Petaling Jaya,Terrace,1076,1,1,272974.2978363976,Central
+Subang,Semi-D,917,3,2,445392.98997157015,West
+Kuala Lumpur,Condo,844,5,2,476208.5298942592,Central
+Subang,Condo,1347,5,2,462857.55830062216,West
+Puchong,Semi-D,1296,1,2,361523.75409752957,South
+Petaling Jaya,Terrace,871,2,3,339794.17147732637,Central
+Petaling Jaya,Terrace,2371,4,1,1053725.7771711631,Central
+Shah Alam,Terrace,1862,2,3,572451.9919697715,South
+Petaling Jaya,Condo,865,2,1,319576.22637575114,Central
+Shah Alam,Condo,1520,1,1,600402.3749299395,South
+Kuala Lumpur,Condo,939,1,2,179850.06634235822,Central
+Puchong,Condo,988,1,3,295413.9786400663,South
+Shah Alam,Terrace,2650,1,2,896814.0659862991,South
+Kuala Lumpur,Semi-D,1765,5,3,831628.5194530683,Central
+Petaling Jaya,Condo,975,1,1,309961.6238711819,Central
+Petaling Jaya,Condo,2633,5,2,952601.531211615,Central
+Kuala Lumpur,Terrace,2971,5,2,978870.0526822592,Central
+Petaling Jaya,Semi-D,745,1,1,257151.9287115439,Central
+Kuala Lumpur,Semi-D,2581,3,1,939881.3961478034,Central
+Shah Alam,Terrace,892,4,1,340316.70694707806,South
+Shah Alam,Terrace,1031,2,2,356825.69886488223,South
+Kuala Lumpur,Semi-D,1304,5,3,517733.6484792952,Central
+Shah Alam,Condo,2598,4,2,936052.9162162727,South
+Shah Alam,Semi-D,998,3,3,407384.22106913175,South
+Shah Alam,Terrace,1563,2,2,637727.0064204212,South
+Subang,Condo,2834,2,2,645539.668248085,West
+Puchong,Condo,2641,5,1,1099596.8837199511,South
+Petaling Jaya,Terrace,2428,1,3,987166.4123035755,Central
+Subang,Terrace,2708,3,2,815560.4803446167,West
+Shah Alam,Terrace,1538,5,2,570351.7902151858,South
+Kuala Lumpur,Semi-D,1309,3,1,468683.8697442462,Central
+Shah Alam,Semi-D,1406,1,1,382371.483474937,South
+Puchong,Condo,2063,1,3,629904.9521355476,South
+Shah Alam,Terrace,1925,5,2,546773.6566599429,South
+Kuala Lumpur,Condo,610,1,3,208562.19179846166,Central
+Puchong,Condo,1685,4,2,714698.3610712582,South
+Shah Alam,Condo,2468,2,3,691525.3581000936,South
+Puchong,Condo,2873,5,1,1150457.1299140784,South
+Petaling Jaya,Terrace,1371,3,2,515041.7973748266,Central
+Petaling Jaya,Condo,2194,4,3,981262.4327396268,Central
+Shah Alam,Terrace,2207,5,1,803037.7863282792,South
+Puchong,Terrace,1933,1,1,412306.35209508974,South
+Kuala Lumpur,Semi-D,1484,1,3,592212.0970186586,Central
+Shah Alam,Terrace,1989,1,2,455551.7006180912,South
+Petaling Jaya,Semi-D,825,1,2,254380.8750093998,Central
+Petaling Jaya,Terrace,1424,3,1,627162.5972886785,Central
+Shah Alam,Terrace,2865,4,2,771166.3877750047,South
+Puchong,Terrace,1536,2,2,542976.6996773458,South
+Petaling Jaya,Semi-D,2906,3,2,1104902.13218968,Central
+Puchong,Semi-D,2511,3,1,1017343.3997977359,South
+Petaling Jaya,Condo,2396,2,3,867225.9436874978,Central
+Petaling Jaya,Semi-D,653,2,2,240920.76382122602,Central
+Subang,Semi-D,1326,1,1,508240.2015946164,West
+Petaling Jaya,Semi-D,2144,3,1,637273.096174979,Central
+Kuala Lumpur,Semi-D,1643,5,3,692727.2510760775,Central
+Shah Alam,Condo,2513,2,2,1062873.1741592805,South
+Shah Alam,Semi-D,2376,2,2,887034.0300682519,South
+Puchong,Terrace,2196,4,3,952149.3789454948,South
+Petaling Jaya,Terrace,2514,5,3,641761.6653451497,Central
+Kuala Lumpur,Semi-D,1449,5,1,605186.4962619918,Central
+Puchong,Semi-D,2709,2,1,1037914.9423609569,South
+Subang,Terrace,2863,1,3,679668.6961480317,West
+Puchong,Terrace,602,4,2,327975.8608606811,South
+Puchong,Condo,759,5,1,296571.5692299804,South
+Petaling Jaya,Terrace,1380,2,1,495779.3021146959,Central
+Subang,Terrace,1492,5,2,676306.1719349199,West
+Puchong,Semi-D,2630,4,1,975795.5699118455,South
+Kuala Lumpur,Terrace,2976,4,2,751152.5437522301,Central
+Kuala Lumpur,Condo,1179,3,2,452225.03999611764,Central
+Shah Alam,Terrace,2533,2,2,892542.5487599922,South
+Subang,Semi-D,1980,4,3,839918.3610549148,West
+Subang,Semi-D,1890,3,3,645666.0578695455,West
+Shah Alam,Terrace,2240,3,3,722672.4024593186,South
+Puchong,Semi-D,1551,5,2,605067.4318984258,South
+Subang,Condo,1587,5,2,594265.9497003936,West
+Kuala Lumpur,Condo,1818,3,3,699115.4772019193,Central
+Kuala Lumpur,Terrace,1520,5,1,620641.9246835457,Central
+Petaling Jaya,Terrace,1955,4,2,841758.5148743644,Central
+Subang,Terrace,769,1,1,302386.76038959867,West
+Puchong,Semi-D,1120,4,1,438744.7954649122,South
+Shah Alam,Condo,2086,3,2,567771.5151633132,South
+Shah Alam,Condo,639,3,2,214614.05399436667,South
+Puchong,Semi-D,2160,4,1,631312.7608789741,South
+Petaling Jaya,Condo,2018,5,1,588156.6674582808,Central
+Shah Alam,Terrace,1554,5,3,699848.3163490666,South
+Subang,Terrace,1583,3,3,694746.0515404955,West
+Petaling Jaya,Terrace,1574,2,2,516074.312071929,Central
+Subang,Condo,637,5,3,364917.93991024175,West
+Kuala Lumpur,Terrace,2975,4,3,1289062.599787013,Central
+Petaling Jaya,Semi-D,1874,5,3,826176.6117641934,Central
+Shah Alam,Semi-D,1799,4,3,738561.9584583334,South
+Petaling Jaya,Condo,2225,3,1,761557.7806073988,Central
+Petaling Jaya,Semi-D,1513,5,2,589505.5130091463,Central
+Petaling Jaya,Semi-D,1053,4,3,383244.69072885806,Central
+Petaling Jaya,Condo,636,3,1,272349.45978057745,Central
+Subang,Terrace,2311,2,1,926645.5248362275,West
+Kuala Lumpur,Terrace,1395,4,1,583797.8364417794,Central
+Puchong,Terrace,1572,2,3,467381.78587735316,South
+Petaling Jaya,Condo,1192,2,3,443161.68639990943,Central
+Shah Alam,Semi-D,1737,1,2,677465.8136544959,South
+Petaling Jaya,Terrace,1924,5,3,528819.8799564247,Central
+Shah Alam,Terrace,2871,4,3,935282.0128624802,South
+Subang,Condo,917,2,1,386781.38746800396,West
+Shah Alam,Terrace,2996,1,2,882765.3455222973,South
+Puchong,Condo,2762,3,3,699182.0762684861,South
+Kuala Lumpur,Semi-D,1946,4,3,720556.397891149,Central
+Shah Alam,Condo,2191,2,1,863485.540162955,South
+Shah Alam,Condo,2489,5,1,881041.6371434192,South
+Kuala Lumpur,Condo,2687,1,3,721757.443415295,Central
+Puchong,Condo,2596,2,2,802756.2866134656,South
+Petaling Jaya,Semi-D,2372,5,2,823231.4026471345,Central
+Shah Alam,Semi-D,1912,2,1,677873.8824829822,South
+Kuala Lumpur,Terrace,1885,4,1,743704.4362623349,Central
+Subang,Semi-D,815,4,3,278555.2300930675,West
+Kuala Lumpur,Semi-D,2983,4,1,1217449.40331872,Central
+Subang,Terrace,2739,1,3,607258.5229412323,West
+Puchong,Semi-D,2304,4,2,731113.4161537419,South
+Petaling Jaya,Condo,962,5,2,331910.6620003619,Central
+Kuala Lumpur,Condo,2316,2,3,720164.0503978458,Central
+Shah Alam,Terrace,1793,3,1,597155.028171846,South
+Puchong,Terrace,955,5,2,407551.2502794288,South
+Kuala Lumpur,Terrace,790,5,1,305970.46616768197,Central
+Shah Alam,Condo,1299,4,2,550992.9965429784,South
+Kuala Lumpur,Semi-D,2654,1,3,632796.8572095449,Central
+Subang,Condo,2780,2,3,1073109.6538785812,West
+Kuala Lumpur,Terrace,1156,1,3,511702.323820003,Central
+Kuala Lumpur,Semi-D,1425,2,2,459932.3977172512,Central
+Kuala Lumpur,Semi-D,1654,2,1,556056.0743071361,Central
