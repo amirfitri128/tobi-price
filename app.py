@@ -16,4 +16,4 @@ try:
   st.dataframe(df)
 
 except Exception as e:
-  st.error("Failed to load data: {e})
+  st.error("Failed to load data: {e}")
